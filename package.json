@@ -24,9 +24,11 @@
       "output": "release"
     },
     "files": [
-      "index.html",
       "main.js",
       "preload.js",
+      "VantacyDesktop_UI.html",
+      "VantacyDesktop_Main.cjs",
+      "VantacyDesktop_Preload.cjs",
       "package.json"
     ],
     "asar": true,
