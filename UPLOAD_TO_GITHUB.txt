@@ -1,0 +1,5 @@
+Upload the CONTENTS of this folder to the root of:
+https://github.com/BookWIZYT/vantacy-desktop
+
+Important: package.json must be at the repository root.
+The renamed source files are intentionally descriptive, but package.json's main entry is VantacyDesktop_Main.cjs and preload must be updated in package.json if you rename them.
